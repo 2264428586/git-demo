@@ -3,7 +3,7 @@
 #include "main.h"
 
 #define BUFFER_SIZE 100
-
+//V2.0
 // 环形缓冲区结构体
 typedef struct {
     char buffer[BUFFER_SIZE];
